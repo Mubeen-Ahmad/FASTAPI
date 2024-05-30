@@ -6,4 +6,7 @@
 <a href="https://github.com/Mubeen-Ahmad/FASTAPI/blob/main/1_Parameters_and_Header_Body/5_Numeric_Validations_and_Differences.ipynb">Numeric Validations and Differences in Parameters</a>
 <br>
 <a href="https://github.com/Mubeen-Ahmad/FASTAPI/blob/main/1_Parameters_and_Header_Body/6_Multiple_Body_and_Fields.ipynb">Multiple Body and Fields</a>
+<br>
+<a href="https://github.com/Mubeen-Ahmad/FASTAPI/blob/main/1_Parameters_and_Header_Body/7_More_Body_Models_and_Nested_Body.ipynb">List,Set,Httpurl in Body and Nested Body</a>
+
 </details>
