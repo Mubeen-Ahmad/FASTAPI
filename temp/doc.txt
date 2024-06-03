@@ -1,0 +1,3 @@
+Detox was a project by Google, in collaboration with the Wikimedia Foundation, to research methods that could be used to address users posting unkind comments in Wikimedia community discussions.
+Among other parts of the Detox project, the Wikimedia Foundation and Jigsaw collaborated to use artificial intelligence for basic research and to develop technical solutions[example needed] to address the problem. 
+In October 2016 those organizations published "Ex Machina: Personal Attacks Seen at Scale" describing their findings.[8][9] Various popular media outlets reported on the publication of this paper and described the social context of the research.
