@@ -1,0 +1,1 @@
+cc=4,‚¨response†¤bodyÄ4This response can be cached by the client for 1 hour§headers„¤date½Wed, 05 Jun 2024 08:46:11 GMT¦server§uvicorn­cache-control´public, max-age=3600®content-length¢52¦statusÌÈ§version¦reason¢OK®decode_contentÂ¤vary€
